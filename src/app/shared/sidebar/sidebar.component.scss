@@ -1,0 +1,13 @@
+ul {
+  .list-item-active {
+    cursor: pointer;
+    border-radius: 10px;
+    background: #fdefef !important;
+    i {
+      color: #bf868b !important;
+    }
+    span {
+      color: #bf868b !important;
+    }
+  }
+}
